@@ -1,0 +1,14 @@
+{
+  "name": "primer-entregable",
+  "version": "1.0.0",
+  "description": "Curso Tecnologico de Antioquia por Daniel Camilo Montoya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
